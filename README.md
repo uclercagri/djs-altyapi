@@ -57,4 +57,4 @@ Herhangi bir sorunuz veya geri bildiriminiz varsa, [Discord sunucumuza](https://
 
 ## Lisans
 
-Bu proje [MD] ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
+Bu proje [MIT License] ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
