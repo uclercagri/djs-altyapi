@@ -18,7 +18,7 @@ git clone https://github.com/emreconf/djs-altyapi.git
 npm install
 ```
 
-3. `.env.example` dosyasını kopyalayın ve `.env` adıyla kaydedin. Ardından dosyayı düzenleyerek MongoDB URI ve bot token gibi gizli bilgilerinizi ekleyin:
+3. `example.env` dosyasını `.env` adıyla değiştirin. Ardından dosyayı düzenleyerek MongoDB URI ve bot token gibi gizli bilgilerinizi ekleyin:
 
 ```plaintext
 BOT_TOKEN=your_bot_token_here
